@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 Change this to write something about this exercise.
+
+this text is **bold**
+
+
